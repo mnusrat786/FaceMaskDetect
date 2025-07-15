@@ -1,7 +1,6 @@
 import os
 import random
 import shutil
-
 # Define paths
 dataset_path = "data/dataset"  # Both images & labels are directly in this folder
 label_path = dataset_path  # Labels are also in this folder
